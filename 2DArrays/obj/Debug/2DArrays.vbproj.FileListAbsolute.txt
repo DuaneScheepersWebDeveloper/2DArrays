@@ -1,0 +1,13 @@
+C:\Users\dev00\source\repos\2DArrays\2DArrays\bin\Debug\2DArrays.exe.config
+C:\Users\dev00\source\repos\2DArrays\2DArrays\bin\Debug\2DArrays.exe
+C:\Users\dev00\source\repos\2DArrays\2DArrays\bin\Debug\2DArrays.pdb
+C:\Users\dev00\source\repos\2DArrays\2DArrays\bin\Debug\2DArrays.xml
+C:\Users\dev00\source\repos\2DArrays\2DArrays\obj\Debug\2DArrays.vbproj.AssemblyReference.cache
+C:\Users\dev00\source\repos\2DArrays\2DArrays\obj\Debug\2DArrays.vbproj.SuggestedBindingRedirects.cache
+C:\Users\dev00\source\repos\2DArrays\2DArrays\obj\Debug\_2DArrays.Form1.resources
+C:\Users\dev00\source\repos\2DArrays\2DArrays\obj\Debug\_2DArrays.Resources.resources
+C:\Users\dev00\source\repos\2DArrays\2DArrays\obj\Debug\2DArrays.vbproj.GenerateResource.cache
+C:\Users\dev00\source\repos\2DArrays\2DArrays\obj\Debug\2DArrays.vbproj.CoreCompileInputs.cache
+C:\Users\dev00\source\repos\2DArrays\2DArrays\obj\Debug\2DArrays.exe
+C:\Users\dev00\source\repos\2DArrays\2DArrays\obj\Debug\2DArrays.xml
+C:\Users\dev00\source\repos\2DArrays\2DArrays\obj\Debug\2DArrays.pdb
